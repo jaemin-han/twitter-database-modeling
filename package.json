@@ -1,0 +1,26 @@
+{
+  "name": "twitter-database-modeling",
+  "version": "1.0.0",
+  "description": "twitter data rendering practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaemin-han/twitter-database-modeling.git"
+  },
+  "author": "Jaemin Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaemin-han/twitter-database-modeling/issues"
+  },
+  "homepage": "https://github.com/jaemin-han/twitter-database-modeling#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "pg-promise": "^5.5.0"
+  }
+}
